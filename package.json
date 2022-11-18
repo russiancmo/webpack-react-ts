@@ -1,5 +1,5 @@
 {
-  "name": "test-full-build",
+  "name": "webpack-react-ts",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -7,7 +7,8 @@
     "start": "webpack-dev-server --mode development",
     "build": "webpack"
   },
-  "author": "",
+  "author": "Loboda Igor",
+  "email": "russiancmo@gmail.com",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "7.1.0",
